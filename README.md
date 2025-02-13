@@ -1,11 +1,13 @@
- - Hi, I am Smarts1l.
- - I am a game developer / coder that specialises in C++ with OpenGL or SDL.
- - I have also made projects in C# using Raylib (although it is quite high end in comparison to SDL)
-   
-What I am working on:
- - A C++ base builder project for a bigger game estimated to be released late 2025
+Hi there! I'm Smarts_1l, a developer who likes overcomplicating things and working at a low level.
+Aside from assembly, my primary coding languages are C++, C and C#, where I typically work on computer games using SDL or OpenGL, focusing on networking.
 
-How to contact me:
- - https://dylanmoody.com/login
- - Discord: smarts1l
-   
+Current Projects
+- A Low Level Game Engine to make my life easier especially when dealing with networking and OpenGL
+- River's Heart - Developer
+
+Contact Me
+You can reach out to me through:
+- Website: dylanmoody.com/login
+- Discord: smarts1l
+
+
